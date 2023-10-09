@@ -22,7 +22,7 @@ body {
     align-items: center;
 }
 #preloder img {
-    height: 20%;
+    width: 40%;
 }
 @media (max-width:600px) {
     #preloder img {
