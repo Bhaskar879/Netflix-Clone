@@ -4,6 +4,6 @@ window.onload = function () {
         document.getElementById('preloder').style.display = "none";
         document.getElementById('content').style.display = "block";
         AOS.init();
-    }, 900);
+    }, 2500);
 };
 
